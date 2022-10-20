@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/gurpreet-weds-sunaina/static/js/main.ed63a7b4.chunk.js",
-    "main.js.map": "/gurpreet-weds-sunaina/static/js/main.ed63a7b4.chunk.js.map",
-    "runtime-main.js": "/gurpreet-weds-sunaina/static/js/runtime-main.b52ee662.js",
-    "runtime-main.js.map": "/gurpreet-weds-sunaina/static/js/runtime-main.b52ee662.js.map",
-    "static/js/2.3e0ff2e4.chunk.js": "/gurpreet-weds-sunaina/static/js/2.3e0ff2e4.chunk.js",
-    "static/js/2.3e0ff2e4.chunk.js.map": "/gurpreet-weds-sunaina/static/js/2.3e0ff2e4.chunk.js.map",
-    "index.html": "/gurpreet-weds-sunaina/index.html",
-    "precache-manifest.45eb34512ee46ba92823047dfb099e1d.js": "/gurpreet-weds-sunaina/precache-manifest.45eb34512ee46ba92823047dfb099e1d.js",
-    "service-worker.js": "/gurpreet-weds-sunaina/service-worker.js"
+    "main.js": "/28-oct-2022/static/js/main.cfe9e56e.chunk.js",
+    "main.js.map": "/28-oct-2022/static/js/main.cfe9e56e.chunk.js.map",
+    "runtime-main.js": "/28-oct-2022/static/js/runtime-main.679d6215.js",
+    "runtime-main.js.map": "/28-oct-2022/static/js/runtime-main.679d6215.js.map",
+    "static/js/2.3e0ff2e4.chunk.js": "/28-oct-2022/static/js/2.3e0ff2e4.chunk.js",
+    "static/js/2.3e0ff2e4.chunk.js.map": "/28-oct-2022/static/js/2.3e0ff2e4.chunk.js.map",
+    "index.html": "/28-oct-2022/index.html",
+    "precache-manifest.9e5552e67f4052c285a93899f27ed622.js": "/28-oct-2022/precache-manifest.9e5552e67f4052c285a93899f27ed622.js",
+    "service-worker.js": "/28-oct-2022/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.b52ee662.js",
+    "static/js/runtime-main.679d6215.js",
     "static/js/2.3e0ff2e4.chunk.js",
-    "static/js/main.ed63a7b4.chunk.js"
+    "static/js/main.cfe9e56e.chunk.js"
   ]
 }
