@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**gurpreet-weds-sunaina/gurpreet-weds-sunaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gurpreet-weds-sunaina/28-oct-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
